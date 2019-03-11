@@ -1,0 +1,8 @@
+git config --global user.email "partha.pratim.sinha@gmail.com"
+git config --global user.namr "coolboypps"
+
+Learn git
+
+git init
+git add -A
+git status
